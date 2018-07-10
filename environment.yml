@@ -1,0 +1,10 @@
+name: tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - kiwisolver
+  - numpy
+prefix: /Users/hannah/miniconda3/envs/tutorial
+
